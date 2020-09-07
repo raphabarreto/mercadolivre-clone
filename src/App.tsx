@@ -1,7 +1,9 @@
 import React from 'react';
 
-function App() {
-  return <h1>Rocketseat</h1>;
-}
+// import { Container } from './styles';
+
+const App: React.FC = () => {
+  return <h1>Mercado Livre</h1>;
+};
 
 export default App;
