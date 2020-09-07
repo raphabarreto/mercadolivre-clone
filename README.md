@@ -98,4 +98,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças à [Rocketseat](https://www.youtube.com/watch?v=-ZV-_7vNRGw)
+Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças à [Rocketseat](https://www.youtube.com/watch?v=APs_xQ2hUOE)
